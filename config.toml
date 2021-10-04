@@ -1,0 +1,19 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Thomas Rettig'
+theme = "Github Style"
+homepage = "https://github.com/"
+
+[params]
+  author = "Thomas"
+  description = "Personal Blog"
+  github = "ThomasRettig"
+  instagram = "thomasrettig12"
+  email = "thomas.rettig.11@gmail.com"
+  url = "https://thomasblogs.com/"
+  keywords = "blog, design, thomas rettig"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  location = "Singapore"
